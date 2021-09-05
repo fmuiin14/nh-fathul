@@ -23,4 +23,6 @@ Please move/ copy:
 2. file data.json
 3. folder assets
 
+In URL page (https://fmuiin14.github.io/), I use .html because github pages not support .php. So I put the php file in zip file or another directory [in here](https://github.com/fmuiin14/nh-fathul)
+
 And you can see my result of mockup slicing for niagahoster. Nb: Honestly, this is my first time to learn Docker. I'm trying my best. I think, development using docker on windows is a little difficult. But I try to always eagerness to learn. Thank you.
