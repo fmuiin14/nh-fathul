@@ -1,0 +1,30 @@
+[
+    {
+        "no": 1,
+        "name": "Bayi",
+        "price": "14",
+        "price_small": ".900",
+        "user": "938"
+    },
+    {
+        "no": 2,
+        "name": "Pelajar",
+        "price": "23",
+        "price_small": ".450",
+        "user": "4.168"
+    },
+    {
+        "no": 3,
+        "name": "Personal",
+        "price": "38",
+        "price_small": ".900",
+        "user": "10.017"
+    },
+    {
+        "no": 4,
+        "name": "Bisnis",
+        "price": "65",
+        "price_small": ".900",
+        "user": "3.552"
+    }
+]
